@@ -223,31 +223,21 @@ article#resume embed{
 /*****project****************************/
 #bt a{
     text-decoration: none;
-    font-size: 70px;
+    font-size: 40px;
     text-align: center;
 }
 
     #bt, #link a:visited {
-        margin: 30px 0 0 100px;
-        height: 150px;
-        
+        margin: 30px 0 0 10px;
+        height: 110px;
         background-color: #f44336;
         color: white;
-        padding: 14px 25px;
+        padding: 14px 5px;
         text-align: center;
         text-decoration: none;
         display: inline-block;
       }
-     
-    /* height: 200px;
-    width: 200px;
-    background-color: #00ff43;
-    border-radius: 20px; */
-  
-   
-
-
-/*****end project****************************/
+     /*****end project****************************/
 footer{
     padding-top: 10px;
     background: rgb(49, 42, 36);
